@@ -9,7 +9,7 @@ Panama Startup Way - Manifiesto
 6. Orientamos el negocio al crecimiento por medio de **plataformas web** y el uso adecuado de **marketing digital**.
 7. Innovamos **localmente sin clonar** y **globalmente de un modo singular** apostando a ideas (soluciones) que resuelven problemas o necesidades reales.
 8. Evangelizamos culturalmente las mejores **practicas de administración y espíritu emprendedor.**
-9. **Orientamos a invertir en capital humano** por medio de fondos de activos humanos ("grunt fund") y "bootstrapping" y solo buscamos fondos de inversión donde sea necesario para crecer de 0 a 1. 
+9. **Orientamos a invertir en capital humano** por medio de fondos de activos humanos ("grunt fund") y "bootstrapping". Solo buscamos fondos de inversión donde sea necesario para crecer de 0 a 1. 
 10. **Mentorizar, motivar y enseñar innovación emprendedora** con objetivos claros y tangibles, en vez de promover metas de transformación educativa inalcanzables. 
 
 
