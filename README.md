@@ -13,5 +13,4 @@ Panama Startup Way - Manifiesto
 10. **Mentorizar, motivar y enseñar innovación emprendedora** con objetivos claros y tangibles, en vez de promover metas de transformación educativa inalcanzables. 
 
 
-### TODO Review, 2nd Pass
-### TODO Review, Final Pass
+
